@@ -1,0 +1,15 @@
+K 13
+svn:externals
+V 832
+installer svn://source.maborak.com/release/interspire/email.marketer/addons/installer/
+mta svn://source.maborak.com/release/interspire/email.marketer/addons/mta/
+multithread svn://source.maborak.com/release/interspire/email.marketer/addons/multithread/
+fbl svn://source.maborak.com/release/interspire/email.marketer/addons/fbl/
+social svn://source.maborak.com/release/interspire/email.marketer/addons/social/
+backup svn://source.maborak.com/release/interspire/email.marketer/addons/backup/
+spins svn://source.maborak.com/release/interspire/email.marketer/addons/spins/
+geostats svn://source.maborak.com/release/interspire/email.marketer/addons/geostats/
+rbp svn://source.maborak.com/release/interspire/email.marketer/addons_private/rbp/
+multilang svn://source.maborak.com/release/interspire/email.marketer/addons_private/multilang/
+
+END

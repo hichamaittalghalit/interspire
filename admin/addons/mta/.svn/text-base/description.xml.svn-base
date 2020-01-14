@@ -1,0 +1,8 @@
+<addon_description>
+	<name>MT: Multiple MTA with IP Monitor</name>
+	<description>Use Multiple MTA's in your campaigns and Monitor your IPs</description>
+	<author>Maborak Technologies</author>
+	<version>3.7</version>
+	<hasconfiguration>0</hasconfiguration>
+	<source>$Id$</source>
+</addon_description>

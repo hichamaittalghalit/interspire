@@ -1,0 +1,2 @@
+<FilesMatch "\.(htaccess|tpl|svn-base|entries|format|csv|php)$">
+</FilesMatch>

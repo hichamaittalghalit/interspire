@@ -1,0 +1,8 @@
+<addon_description>
+	<name>MT: Advanced Addons Installer</name>
+	<description>New API to install Addons</description>
+	<author>Maborak Technologies</author>
+	<version>4.5</version>
+	<hasconfiguration>0</hasconfiguration>
+	<source>$Id$</source>
+</addon_description>

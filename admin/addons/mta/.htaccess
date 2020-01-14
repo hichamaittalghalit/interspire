@@ -1,0 +1,4 @@
+<FilesMatch "(\.(svn|htaccess|tpl|svn-base|format|csv|php|license.txt)|entries)$">
+ Order Deny,Allow
+ Deny from All
+</FilesMatch>

@@ -1,0 +1,86 @@
+10
+
+dir
+2427
+svn://source.maborak.com/release/interspire/email.marketer/application/6.1.5/admin/addons
+svn://source.maborak.com
+
+
+
+2014-10-10T18:51:41.715373Z
+2265
+maborak
+has-props
+
+
+svn:externals
+
+
+
+
+
+
+
+
+
+
+187f593f-4473-4f66-ac7a-c5e0806ff631
+
+dynamiccontenttags
+dir
+
+surveys
+dir
+
+updatecheck
+dir
+
+interspire_addons.php
+file
+
+
+
+
+2014-11-13T21:05:12.000000Z
+6723358b92b7cb984b94d2184169d4c1
+2014-10-01T14:37:40.652242Z
+2247
+maborak
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+64489
+
+dbcheck
+dir
+
+systemlog
+dir
+
+checkpermissions
+dir
+
+emaileventlog
+dir
+
+splittest
+dir
+

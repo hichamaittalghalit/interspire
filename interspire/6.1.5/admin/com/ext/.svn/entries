@@ -1,0 +1,83 @@
+10
+
+dir
+2427
+svn://source.maborak.com/release/interspire/email.marketer/application/6.1.5/admin/com/ext
+svn://source.maborak.com
+
+
+
+2014-10-01T14:37:40.652242Z
+2247
+maborak
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+187f593f-4473-4f66-ac7a-c5e0806ff631
+
+database
+dir
+
+server_stats
+dir
+
+interspire_event
+dir
+
+interspire_log
+dir
+
+interspire_stash
+dir
+
+BLANK
+file
+
+
+
+
+2014-11-13T21:05:11.000000Z
+d41d8cd98f00b204e9800998ecf8427e
+2014-10-01T14:37:40.652242Z
+2247
+maborak
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+interspire_email
+dir
+
+interspire_template
+dir
+
